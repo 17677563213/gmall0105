@@ -15,7 +15,7 @@ public class UmsMember  implements Serializable {
 
     private String username;
 
-    private String password;
+    private   String password;
 
     private String nickname;
 
